@@ -4,7 +4,7 @@
 it's a freecodecamp project in the "Information Security and Quality Assurance Projects" module, you have to build a back-end that will receive a measuring unit and return a json response containing the converted unit.
 
 bonus*: 
-- Front-end using React
+- Front-end using React, Sass, Responsive Design
 
 ### Tools used
 
